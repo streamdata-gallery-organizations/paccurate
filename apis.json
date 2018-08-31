@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Paccurate",
+	"description": "This is a repository of paccurate APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/paccurate.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://paccurate.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Paccurate",
+			"x-api-slug": "paccurate",
+			"description": "Designed for production shipping environments, &rho;accurate is lightning fast, completing most requests in 100ms or less. A single, flexible API call can be used in any project or workflow. More accurate shipping estimates. By precisely simulating how your product will be packed, you can avoid over-estimating shipping, which reduces shopping cart abandonment. Speed up the pick and pack process. Turn warehouse staff into smooth operators- &rho;accurate can generate a helpful pack list and visual instructions&mdash;and even generate intelligent pick zones on the fly. Let paccurate determine the cheapest box configuration. When business is booming, every cent counts. Use &rho;accurate to find the optimal way of packing each parcel and pallet and avoid costly mistakes.",
+			"image": "",
+			"humanURL": "http://paccurate.io",
+			"baseURL": "https://api.paccurate.io//",
+			"tags": "Paccurate",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/paccurate/master/_listings/paccurate/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Paccurate",
+	"include": [
+		{
+			"name": "Paccurate",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/paccurate/master/_listings/paccurate/apis.yaml"
+		}
+	]
+}
